@@ -1,3 +1,2 @@
-pip install selenium
-pip install pynput
-pip install undetected_chromedriver
+pip install random
+pip install Tkinter
