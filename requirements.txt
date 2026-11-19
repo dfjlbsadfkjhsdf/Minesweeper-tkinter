@@ -1,2 +1,2 @@
-pip install random
-pip install Tkinter
+random
+Tkinter
